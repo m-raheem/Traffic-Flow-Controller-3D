@@ -1,0 +1,361 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.bg12,
+.bg13 {
+  position: absolute;
+}
+.bg12 {
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--hayden-black);
+  width: 70px;
+}
+.bg13 {
+  top: 5px;
+  left: 15px;
+  border-radius: var(--br-md);
+  background-color: var(--hayden-main);
+  width: 40px;
+  height: 40px;
+  display: none;
+}
+.icon-settings2 {
+  position: absolute;
+  top: 13px;
+  left: 23px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.tab-sidenav10,
+.tab-sidenav11 {
+  width: 70px;
+  height: 50px;
+  overflow: hidden;
+  display: none;
+}
+.tab-sidenav10 {
+  position: absolute;
+  bottom: 18px;
+  left: 0;
+}
+.tab-sidenav11 {
+  position: relative;
+  flex-shrink: 0;
+}
+.bg16,
+.icon-fleet2 {
+  position: absolute;
+  top: 13px;
+  left: 23px;
+  width: 24px;
+  height: 24px;
+}
+.bg16 {
+  top: 5px;
+  left: 15px;
+  border-radius: var(--br-md);
+  background-color: var(--hayden-main);
+  width: 40px;
+  height: 40px;
+}
+.tab-sidenav14 {
+  position: relative;
+  width: 70px;
+  height: 50px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.navigation2 {
+  position: absolute;
+  top: 83px;
+  left: 0;
+  display: none;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-0);
+}
+.logo2,
+.sidenav2 {
+  position: absolute;
+  top: 19px;
+  left: 26px;
+  width: 24px;
+  height: 30px;
+}
+.sidenav2 {
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 70px;
+}
+.signin-item {
+  position: absolute;
+  top: 16px;
+  left: 15px;
+  width: 39px;
+  height: 37px;
+  overflow: hidden;
+}
+.bg17 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--white1);
+}
+.mta-network4 {
+  position: absolute;
+  top: 7px;
+  left: 43px;
+  font-weight: 500;
+  display: inline-block;
+}
+.logo-client3,
+.logo-icon1 {
+  position: absolute;
+  height: 34px;
+}
+.logo-icon1 {
+  top: 0;
+  left: 0;
+  width: 31px;
+  object-fit: cover;
+}
+.logo-client3 {
+  top: 15px;
+  left: 21px;
+  width: 134px;
+  display: none;
+}
+.avatar-icon2 {
+  position: relative;
+  width: 32px;
+  height: 32px;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.marilyn-lubin2 {
+  position: relative;
+  font-weight: 500;
+  display: inline-block;
+}
+.icon-dropdown2 {
+  position: relative;
+  width: 14px;
+  height: 14px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.name2 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-2xs);
+}
+.header2,
+.user2 {
+  position: absolute;
+}
+.user2 {
+  top: 16px;
+  right: 32px;
+  display: none;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-2xl);
+  font-size: var(--body-16-regular-size);
+  color: var(--hayden-grey-1);
+}
+.header2 {
+  width: calc(100% - 70px);
+  top: 0;
+  right: 0;
+  left: 70px;
+  box-shadow: 0 1px 1px rgba(70, 70, 70, 0.1);
+  height: 64px;
+  color: var(--color-indigo-100);
+  font-family: var(--body-14-regular);
+}
+.logo-1-icon2,
+.logo-client4 {
+  position: absolute;
+  height: 34px;
+}
+.logo-1-icon2 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-4xl);
+  width: 34px;
+  object-fit: cover;
+}
+.logo-client4 {
+  top: 19px;
+  left: 92px;
+  width: 190px;
+  color: var(--color-indigo-100);
+  font-family: var(--body-14-regular);
+}
+.border2 {
+  position: absolute;
+  height: 93.79%;
+  top: 6.23%;
+  bottom: -0.02%;
+  left: 69.75px;
+  border-right: 0.5px solid var(--color-gray-800);
+  box-sizing: border-box;
+  width: 0.5px;
+  display: none;
+}
+.frame-icon {
+  position: absolute;
+  top: 36.5px;
+  left: 75px;
+  width: 40px;
+  height: 39px;
+  overflow: hidden;
+}
+.ux-circle-logo-child1 {
+  position: absolute;
+  top: 44px;
+  left: 122.5px;
+  background-color: var(--white1);
+  width: 193px;
+  height: 28px;
+}
+.traffic-flow-controller2 {
+  position: absolute;
+  top: 43.5px;
+  left: 124px;
+  line-height: 24.98px;
+  display: inline-block;
+  width: 333px;
+}
+.about-us1,
+.ux-circle-logo2 {
+  position: absolute;
+  text-align: center;
+}
+.ux-circle-logo2 {
+  height: 8.04%;
+  width: 35.89%;
+  top: 5.71%;
+  right: 32.09%;
+  bottom: 86.25%;
+  left: 32.02%;
+  font-size: var(--font-size-3xl);
+}
+.about-us1 {
+  top: 168px;
+  left: 627px;
+  font-size: var(--headings-h2-bold-size);
+  text-decoration: underline;
+  line-height: 46px;
+  display: inline-block;
+  width: 220px;
+  height: 47px;
+}
+.signin-inner {
+  position: absolute;
+  top: 239px;
+  left: 252px;
+  border-radius: var(--br-3xl);
+  background-color: var(--white1);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  backdrop-filter: blur(4px);
+  width: 989px;
+  height: 774px;
+}
+.traffic-congestion-is {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.fortunately-this-issue {
+  margin: 0;
+}
+.traffic-congestion-is-a-massiv {
+  position: relative;
+  line-height: 46px;
+  display: inline-block;
+  width: 825px;
+  height: 598px;
+  flex-shrink: 0;
+}
+.traffic-congestion-is-a-massiv-wrapper {
+  position: absolute;
+  top: 300px;
+  left: 303px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-md) var(--padding-4xl);
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: justify;
+  font-size: 20px;
+}
+.text7 {
+  position: relative;
+  line-height: 24.98px;
+  font-weight: 500;
+  display: inline-block;
+}
+.button-base2 {
+  background-color: var(--primary);
+  border: 1px solid var(--white1);
+  box-sizing: border-box;
+  width: 163px;
+  height: 64px;
+  flex-shrink: 0;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-sm) var(--padding-3xl);
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+.button-base-parent {
+  position: absolute;
+  top: -1px;
+  left: 1134px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 14px;
+  font-size: var(--font-size-lg);
+  color: var(--white1);
+}
+.about-us,
+.signin1 {
+  background-color: var(--white1);
+  height: 1120px;
+  overflow: hidden;
+}
+.signin1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1474px;
+}
+.about-us {
+  position: relative;
+  width: 100%;
+  text-align: left;
+  font-size: var(--body-14-regular-size);
+  color: var(--color-black);
+  font-family: var(--paragraph-regular);
+}

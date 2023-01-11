@@ -1,0 +1,108 @@
+:root {
+  /* fonts */
+  --paragraph-regular: Inter;
+  --body-14-regular: "Noto Sans";
+  --font-mulish: Mulish;
+  --font-roboto: Roboto;
+
+  /* font sizes */
+  --font-size-5xs: 11px;
+  --font-size-4xs: 12px;
+  --body-13-regular-size: 13px;
+  --font-size-2xs: 14.57px;
+  --body-14-regular-size: 14px;
+  --font-size-sm: 15.61px;
+  --body-16-regular-size: 16px;
+  --font-size-lg: 16.66px;
+  --header-18-medium-size: 18px;
+  --font-size-2xl: 21px;
+  --font-size-3xl: 30px;
+  --headings-h2-bold-size: 34px;
+  --font-size-5xl: 48px;
+
+  /* Colors */
+  --white1: #fff;
+  --color-black: #000;
+  --color-indigo-100: #0039a6;
+  --primary: #020246;
+  --hayden-background: #fbfcfe;
+  --color-gray-200: #f3f3f3;
+  --secondary-color-1: #eff0f7;
+  --neutral-300: #eff0f6;
+  --color-gray-500: #e2e2e2;
+  --hayden-grey-2: #dce1e2;
+  --color-gray-700: #dfdfdf;
+  --color-gray-800: #d4ddf2;
+  --gray-300: #d0d5dd;
+  --color-gray-1000: #ced4da;
+  --hayden-grey-3: #d1d1d1;
+  --hayden-grey-1: #b0b0b0;
+  --color-gray-1300: #4a90e2;
+  --neutral-600: #6f6c90;
+  --hayden-grey-dark: #464646;
+  --gray-700: #344054;
+  --hayden-black: #1a1a1a;
+  --gray-900: #101828;
+  --color-gray-1900: rgba(12, 36, 86, 0.08);
+  --color-gray-2000: rgba(217, 217, 217, 0.5);
+  --color-gray-2100: rgba(220, 225, 226, 0);
+  --secondary-2: rgba(0, 0, 0, 0.5);
+  --hayden-main: #2730f5;
+  --primary-100: #c8f9e8;
+  --primary-300: #5bdcc6;
+  --primary-600: #026e78;
+  --message-green: #36cd45;
+  --message-red: #eb4c55;
+  --color-orange: #ff9d0a;
+
+  /* Gaps */
+  --gap-0: 0px;
+  --gap-5xs: 1px;
+  --gap-4xs: 4px;
+  --gap-3xs: 6.25px;
+  --gap-2xs: 6px;
+  --gap-xs: 8px;
+  --gap-sm: 8.33px;
+  --gap-md: 10px;
+  --gap-lg: 12px;
+  --gap-xl: 13px;
+  --gap-2xl: 15px;
+  --gap-3xl: 16px;
+  --gap-4xl: 22px;
+  --gap-5xl: 65px;
+  --gap-6xl: 106px;
+
+  /* Paddings */
+  --padding-6xs: 2px;
+  --padding-5xs: 4px;
+  --padding-4xs: 5px;
+  --padding-3xs: 6px;
+  --padding-2xs: 7px;
+  --padding-xs: 8px;
+  --padding-sm: 10.409807205200195px;
+  --padding-md: 10px;
+  --padding-lg: 12px;
+  --padding-xl: 14.573729515075684px;
+  --padding-2xl: 16px;
+  --padding-3xl: 18.737651824951172px;
+  --padding-4xl: 20px;
+  --padding-5xl: 24px;
+  --padding-6xl: 60px;
+
+  /* border radiuses */
+  --br-4xs: 2px;
+  --br-3xs: 4px;
+  --br-2xs: 6px;
+  --br-xs: 7px;
+  --br-sm: 8.33px;
+  --br-md: 8px;
+  --br-lg: 9px;
+  --br-xl: 31.23px;
+  --br-2xl: 40px;
+  --br-3xl: 47px;
+  --br-4xl: 150px;
+
+  /* Effects */
+  --shadow-button: 8px 8px 24px rgba(2, 2, 70, 0.15);
+  --shadow-elevation-1-e-1-rest-state: 0px 1px 2px rgba(16, 24, 40, 0.05);
+}
